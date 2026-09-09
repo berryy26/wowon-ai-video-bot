@@ -1,0 +1,4 @@
+flask
+gunicorn
+requests
+gradio_client
