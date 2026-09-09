@@ -1,3 +1,0 @@
-python-telegram-bot
-gradio_client
-flask
